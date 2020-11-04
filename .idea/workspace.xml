@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="862920e8-4435-41e9-991c-9d4eb3e1dcdd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drewienko/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/Drewienko/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Drewienko/Drewienko/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/Drewienko/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Drewienko/Drewienko/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/home/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Drewienko/home/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/css/bg_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/css/bg_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/css/bg_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/css/bg_4.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/css/bg_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/css/bg_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/img/Drew_logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/templates/main/highlighted_announcements.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/templates/main/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/templates/main/layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drewienko/main/views.py" beforeDir="false" />
-    </list>
+    <list default="true" id="862920e8-4435-41e9-991c-9d4eb3e1dcdd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604352324376</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3 different applications: announcement, home, user">
+      <created>1604533589314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604533589314</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,7 +171,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stworzony ogólny widok strony (wydmuszka),&#10;Założony model." />
-    <option name="LAST_COMMIT_MESSAGE" value="Stworzony ogólny widok strony (wydmuszka),&#10;Założony model." />
+    <MESSAGE value="3 different applications: announcement, home, user" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 different applications: announcement, home, user" />
   </component>
   <component name="WindowStateProjectService">
     <state x="769" y="215" key="#Notifications" timestamp="1604147439110">
@@ -200,10 +183,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="866" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1603636805237" />
-    <state x="548" y="115" key="CommitChangelistDialog2" timestamp="1604352318453">
+    <state x="548" y="115" key="CommitChangelistDialog2" timestamp="1604533577913">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="548" y="115" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1604352318453" />
+    <state x="548" y="115" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1604533577913" />
     <state x="433" y="189" key="DBNavigator.ProjectSettingsDialog" timestamp="1604136150318">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -212,10 +195,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="732" y="240" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1604136147755" />
-    <state x="968" y="417" width="260" height="211" key="Github.ShareDialog" timestamp="1604352159220">
+    <state x="968" y="417" width="260" height="211" key="Github.ShareDialog" timestamp="1604533608125">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="968" y="417" width="260" height="211" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604352159220" />
+    <state x="968" y="417" width="260" height="211" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604533608125" />
     <state x="853" y="229" key="Github.UntrackedFilesDialog" timestamp="1603655883361">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -240,10 +223,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="404" y="177" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1604260191780" />
-    <state x="502" y="285" key="Vcs.Push.Dialog.v2" timestamp="1604352381384">
+    <state x="502" y="285" key="Vcs.Push.Dialog.v2" timestamp="1604533703467">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="502" y="285" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1604352381384" />
+    <state x="502" y="285" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1604533703467" />
     <state x="659" y="460" key="com.intellij.ide.util.TipDialog" timestamp="1603835904575">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
