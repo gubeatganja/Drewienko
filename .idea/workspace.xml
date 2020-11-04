@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="862920e8-4435-41e9-991c-9d4eb3e1dcdd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drewienko/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/Drewienko/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Drewienko/Drewienko/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/Drewienko/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Drewienko/Drewienko/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/home/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Drewienko/home/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/css/bg_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/css/bg_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/css/bg_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/css/bg_4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/css/bg_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/css/bg_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/static/main/img/Drew_logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/templates/main/highlighted_announcements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/templates/main/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/templates/main/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drewienko/main/views.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\programowanie\Drewienko\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jN6DrXusgpWSZH6xmJhQl1zeh3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Drewienko/home/static/images" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\programowanie\Drewienko\Drewienko\home\static\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\programowanie\Drewienko\Drewienko\home\templates\home" />
+      <recent name="C:\programowanie\Drewienko\Drewienko\announcement\templates\announcement" />
+      <recent name="C:\programowanie\Drewienko\Drewienko\users" />
+      <recent name="C:\programowanie\Drewienko\Drewienko\announcements" />
+      <recent name="C:\programowanie\Drewienko\Drewienko" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="crop_img" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Drewienko" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Drewienko/home/templates/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\programowanie\Drewienko\Drewienko\home\crop_img.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.crop_img" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="862920e8-4435-41e9-991c-9d4eb3e1dcdd" name="Default Changelist" comment="" />
+      <created>1603632086433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603632086433</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Stworzony ogólny widok strony (wydmuszka),&#10;Założony model.">
+      <created>1604146702742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604146702742</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Stworzony ogólny widok strony (wydmuszka),&#10;Założony model.">
+      <created>1604352324376</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604352324376</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Stworzony ogólny widok strony (wydmuszka),&#10;Założony model." />
+    <option name="LAST_COMMIT_MESSAGE" value="Stworzony ogólny widok strony (wydmuszka),&#10;Założony model." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="769" y="215" key="#Notifications" timestamp="1604147439110">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="769" y="215" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1604147439110" />
+    <state x="866" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603636805237">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="866" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1603636805237" />
+    <state x="548" y="115" key="CommitChangelistDialog2" timestamp="1604352318453">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="548" y="115" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1604352318453" />
+    <state x="433" y="189" key="DBNavigator.ProjectSettingsDialog" timestamp="1604136150318">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="433" y="189" key="DBNavigator.ProjectSettingsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604136150318" />
+    <state x="732" y="240" key="FileChooserDialogImpl" timestamp="1604136147755">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="732" y="240" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1604136147755" />
+    <state x="968" y="417" width="260" height="211" key="Github.ShareDialog" timestamp="1604352159220">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="968" y="417" width="260" height="211" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604352159220" />
+    <state x="853" y="229" key="Github.UntrackedFilesDialog" timestamp="1603655883361">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="853" y="229" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603655883361" />
+    <state width="1430" height="242" key="GridCell.Tab.0.bottom" timestamp="1604525311533">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1430" height="242" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1604525311533" />
+    <state width="1430" height="242" key="GridCell.Tab.0.center" timestamp="1604525311533">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1430" height="242" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1604525311533" />
+    <state width="1430" height="242" key="GridCell.Tab.0.left" timestamp="1604525311533">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1430" height="242" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1604525311533" />
+    <state width="1430" height="242" key="GridCell.Tab.0.right" timestamp="1604525311533">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1430" height="242" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604525311533" />
+    <state x="404" y="177" key="SettingsEditor" timestamp="1604260191780">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="404" y="177" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1604260191780" />
+    <state x="502" y="285" key="Vcs.Push.Dialog.v2" timestamp="1604352381384">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="502" y="285" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1604352381384" />
+    <state x="659" y="460" key="com.intellij.ide.util.TipDialog" timestamp="1603835904575">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="659" y="460" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603835904575" />
+    <state x="813" y="619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604352263389">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="813" y="619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1604352263389" />
+    <state x="982" y="444" width="672" height="678" key="search.everywhere.popup" timestamp="1604528145621">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="982" y="444" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604528145621" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Drewienko/Drewienko/wsgi.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

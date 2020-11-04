@@ -1467,7 +1467,9 @@ p.creating{
 }
 .portfolio-img {
     width:48%;
+    height:250px;
     float: left;
+    overflow: hidden;
 }
 .portfolio-description {
     width: 50%;
