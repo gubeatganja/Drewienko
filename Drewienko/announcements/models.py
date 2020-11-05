@@ -1,4 +1,5 @@
 from django.db import models
+from django.urls import reverse
 from django.utils import timezone
 from django.contrib.auth.models import User
 
@@ -23,7 +24,11 @@ class Announcement(models.Model):
     shipping = models.CharField(choices=(('tak', 'tak'), ('nie', 'nie')), default='nie', max_length=100)
     sell_or_exchange = models.CharField(choices=(('na sprzedaż', 'na sprzedaż'), ('na wymianę', 'na wymianę'), ('na sprzedaż lub wymianę', 'na sprzedaż lub wymianę')), max_length=100)
 
+
+
+
     def __str__(self):
         return self.title
 
-
+    def get_absolute_url(self):
+        return reverse('post-detail', kwargs={'pk': self.pk})
