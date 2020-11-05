@@ -11,7 +11,6 @@ class AnnouncementCreateView(LoginRequiredMixin, CreateView):
     model = Announcement
     fields = ['title', 'picture', 'content', 'city', 'price', 'category', 'shipping', 'sell_or_exchange']
 
-
     def form_valid(self, form):
         form.instance.author = self.request.user
         return super().form_valid(form)
