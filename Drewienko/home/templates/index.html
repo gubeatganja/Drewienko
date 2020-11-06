@@ -1,0 +1,15 @@
+{%  extends "base.html" %}
+{% load static %}
+{% block body %}
+    {% include "messages.html" %}
+    {% if user.is_authenticated %}
+    Witaj {{ user.username }}
+
+    <a href="{% url "users:change_password" %}">Zmień hasło</a>
+    <a href="{% url "users:logout" %}">wyloguj</a>
+{% else %}
+    <a href="{% url "users:login" %}">zaloguj</a>
+    <a href="{% url "users:register" %}">rejestruj</a>
+{% endif %}
+
+{%  endblock %}
