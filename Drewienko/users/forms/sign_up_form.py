@@ -1,7 +1,9 @@
 from django import forms
 from django.contrib.auth.forms import UserCreationForm, UsernameField
-from django.core.validators import EmailValidator
 from django.contrib.auth.models import User
+from django.core.validators import EmailValidator
+from pydoc import locate
+from django.conf import settings
 
 
 class SignUpForm(UserCreationForm):
